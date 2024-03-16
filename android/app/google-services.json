@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172475166953",
+    "project_id": "pro-palestine",
+    "storage_bucket": "pro-palestine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172475166953:android:a74e19592cc6ecb4f28078",
+        "android_client_info": {
+          "package_name": "com.example.pro_palestine01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCipTPJRnngRK3rjx_Z4U1EyBX2DZN_1oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
